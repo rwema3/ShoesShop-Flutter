@@ -19,7 +19,7 @@ class DefaultElements {
 
   static const Color kstarratingcolor = Color(0xffFDD446);
   static const List<Color> kshoecolo= [
-    Color(0xffFDD446
+    Color(0xffFDD44
 
 
 
