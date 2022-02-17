@@ -29,4 +29,3 @@ class DefaultElements {
     Color(0xffF7DDDD),
     Color(0xffF8EAF3),
 
-
