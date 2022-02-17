@@ -2,7 +2,6 @@
 //
 // To perform an interaction with a widget in your test, use the WidgetTester
 
-//
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
