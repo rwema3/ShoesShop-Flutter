@@ -18,7 +18,7 @@ class DefaultElements {
   static const lightShowcasebgcoloryellow = Color(0xffFFF9C4);
 
   static const Color kstarratingcolor = Color(0xffFDD446);
-  static const List<Color> kshoecolorO= [
+  static const List<Color> kshoecolor= [
     Color(0xffFDD446),
     Color(0xffF6565D),
     Color(0xffF9A1DA),
