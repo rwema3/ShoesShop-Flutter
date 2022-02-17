@@ -23,6 +23,6 @@ class DefaultElements {
     Color(0xffF6565D),
     Color(0xffF9A1DA),
     Color(0xff6EA2FF),
-  ];
-  static const List<Co
+  ]
+  static const List<C
 
