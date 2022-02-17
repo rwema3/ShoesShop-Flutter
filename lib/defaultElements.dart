@@ -22,7 +22,6 @@ class DefaultElements {
     Color(0xffFDD446),
     Color(0xffF6565D),
     Color(0xffF9A1DA),
-    C
 
 
 
