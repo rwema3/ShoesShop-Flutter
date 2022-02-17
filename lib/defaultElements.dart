@@ -22,7 +22,7 @@ class DefaultElements {
     Color(0xffFDD446),
     Color(0xffF6565D),
     Color(0xffF9A1DA),
-    Color(0xff6EA2
+    Color(0xff6E
 
 
 
