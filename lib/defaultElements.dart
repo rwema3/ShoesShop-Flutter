@@ -25,6 +25,6 @@ class DefaultElements {
     Color(0xff6EA2FF),
   ];
   static const List<Color> kshoerepplecolorOptions = [
-    Color(0xf
+    Color(0
 
 
