@@ -21,7 +21,6 @@ class DefaultElements {
   static const List<Color> kshoecolo= [
     Color(0xffFDD446),
     Color(0xffF6565D),
-    C
 
 
 
